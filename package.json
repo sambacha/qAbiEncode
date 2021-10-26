@@ -1,0 +1,19 @@
+{
+  "name": "qabiencode",
+  "version": "0.1.0",
+  "description": "KDB+ library for abi encoding ethereum functions.",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/qAbiEncode.git"
+  },
+  "keywords": ["ethereum", "q", "kdb+", "abi encoder", "solidity", "abi encoder v2"],
+  "author": "Manifold Finance, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambacha/qAbiEncode/issues"
+  },
+  "homepage": "https://github.com/sambacha/qAbiEncode#readme"
+}

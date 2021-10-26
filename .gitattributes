@@ -1,0 +1,4 @@
+git-hash.sh		export-subst
+*.sh text eol=lf
+.github/ export-ignore
+
